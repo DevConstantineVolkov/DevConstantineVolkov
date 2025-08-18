@@ -1,5 +1,3 @@
-<div width="30px" height="30px" >sadasd</div>
-
 <h1 style="padding-left:100px;">👋🏻 Привет, я Константин Волков / Hi, I'm Konstantin Volkov</h1>
 
 * 🧐 Младший фронтенд-разработчик мобильных и веб приложений / Junior Frontend Developer for Mobile and Web Applications
