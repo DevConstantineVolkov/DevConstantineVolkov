@@ -1,4 +1,4 @@
-## Hi there 👋
+👋🏻 Привет, я Константин Волков / Hi, I'm Konstantin Volkov
 
 <!--
 **DevConstantineVolkov/DevConstantineVolkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
