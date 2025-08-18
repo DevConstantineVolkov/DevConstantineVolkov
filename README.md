@@ -1,4 +1,4 @@
-<h1 align="left">👋🏻 Привет, я Константин Волков / Hi, I'm Konstantin Volkov</h1>
+<h1 style="color:🍏;">👋🏻 Привет, я Константин Волков / Hi, I'm Konstantin Volkov</h1>
 
 * 🧐 Младший фронтенд-разработчик мобильных и веб приложений / Junior Frontend Developer for Mobile and Web Applications
 
