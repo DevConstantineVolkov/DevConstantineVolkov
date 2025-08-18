@@ -1,4 +1,4 @@
-#👋🏻 Привет, я Константин Волков / Hi, I'm Konstantin Volkov
+# 👋🏻 Привет, я Константин Волков / Hi, I'm Konstantin Volkov
 
 🧐 Младший фронтенд-разработчик мобильных и веб приложений / Junior Frontend Developer for Mobile and Web Applications
 
