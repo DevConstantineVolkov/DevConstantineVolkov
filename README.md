@@ -1,5 +1,9 @@
 👋🏻 Привет, я Константин Волков / Hi, I'm Konstantin Volkov
 
+🧐 Младший фронтенд-разработчик мобильных и веб приложений / Junior Frontend Developer for Mobile and Web Applications
+
+🎓 Дипломированный специалист в области "Программное обеспечение информационных технологий" / Certified specialist in the field of "Information Technology Software"
+
 <!--
 **DevConstantineVolkov/DevConstantineVolkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
