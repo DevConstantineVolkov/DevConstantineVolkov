@@ -4,6 +4,7 @@
 
 * 🎓 Дипломированный специалист в области "Программное обеспечение информационных технологий" / Certified specialist in the field of "Information Technology Software"
 
+[instagram]: https://www.instagram.com/devconstantinevolkov/
 <!--
 **DevConstantineVolkov/DevConstantineVolkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
