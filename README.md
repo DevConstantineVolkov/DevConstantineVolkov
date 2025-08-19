@@ -1,4 +1,3 @@
-<img width="100%" src="./assets/main.svg"/>
 <h1 align="center">👋🏻 Привет, я Константин Волков / Hi, I'm Constantine Volkov</h1>
 
 * 🧐 Фронтенд-разработчик мобильных и веб приложений / Frontend Developer for Mobile and Web Applications
