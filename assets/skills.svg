@@ -22,7 +22,6 @@
           flex-wrap: wrap;
           gap: 20px;
           }
-
           .icon-wrapper svg {
           width: 70px;
           height: 70px;
@@ -31,14 +30,8 @@
           padding: 8px;
           background: #FFFFFF;
           border-radius: 12px;
-          box-shadow: var(--box-shadow-tile) ;
-          cursor: pointer;
-          transition: .2s;
+          box-shadow: var(--box-shadow-tile);
           }
-          .icon-wrapper svg:hover{
-          transform: translateY(-10px);
-          }
-
       </style>
       <div class="body" xmlns="http://www.w3.org/1999/xhtml">
           <div class="icon-wrapper">
