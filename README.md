@@ -11,10 +11,10 @@
 <img align="left" alt="React" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:15px;" src="https://camo.githubusercontent.com/57d6a70530ac5af0fcdc62581bd847a442b3025906fe959a6f959437ee5d4d95/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
  <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
  </div>
+
 
 <!--
 
