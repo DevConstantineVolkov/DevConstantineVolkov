@@ -1,3 +1,4 @@
+<img width="100%" height="500px" src="./assets/main.svg"/>
 <h1 align="center">👋🏻 Привет, я Константин Волков / Hi, I'm Constantine Volkov</h1>
 
 * 🧐 Фронтенд-разработчик мобильных и веб приложений / Frontend Developer for Mobile and Web Applications
@@ -12,12 +13,12 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:15px;" src="https://camo.githubusercontent.com/57d6a70530ac5af0fcdc62581bd847a442b3025906fe959a6f959437ee5d4d95/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+
+
+<!--
  <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
  </div>
-
-<!--
-
  <details>
     <summary>Языки программирования</summary>
   </details>
