@@ -8,7 +8,6 @@
 <div align="center">
  <img width="100%" src="./assets/skills.svg"/>
 </div>
- 
  <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
  </div>
